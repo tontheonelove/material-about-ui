@@ -1,4 +1,3 @@
 # material-about-ui
 
-
-<img scr=Untitled.png/>
+<img src=Untitled.png/>
